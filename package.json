@@ -1,0 +1,11 @@
+{
+  "name": "api-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marcelo-04/api-node.git",
+  "author": "Marcelo Alves Nogueira <mclg.nogueira@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
