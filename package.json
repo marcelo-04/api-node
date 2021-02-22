@@ -5,7 +5,15 @@
   "repository": "https://github.com/marcelo-04/api-node.git",
   "author": "Marcelo Alves Nogueira <mclg.nogueira@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
   "dependencies": {
-    "express": "^4.17.1"
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.17"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
   }
 }
